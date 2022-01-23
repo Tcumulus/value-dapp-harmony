@@ -5,7 +5,7 @@ import Storage from "../abis/Storage.json"
 import Header from "./Header"
 
 const contractAddress = "0x220d2616E26C7549CEC6625e3AD2160971fdbE86"
-const buttonStyle = "mx-4 py-2 px-5 bg-[#99f3d8] text-lg rounded-xl text-[#f7f7f7] drop-shadow-lg hover:bg-[#7cf7cc] cursor-pointer"
+const buttonStyle = "mx-4 py-2 px-5 bg-[#35fbab] text-lg rounded-xl text-[#f7f7f7] drop-shadow-lg hover:bg-[#7cf7cc] cursor-pointer"
 
 
 const App = () => {
