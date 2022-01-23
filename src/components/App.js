@@ -4,7 +4,7 @@ import { ethers } from "ethers"
 import Storage from "../abis/Storage.json"
 import Header from "./Header"
 
-const contractAddress = "0x220d2616E26C7549CEC6625e3AD2160971fdbE86"
+const contractAddress = "0x7496bFFFBf8E3c33bfC18131284E7106fE1b040C"
 const buttonStyle = "mx-4 py-2 px-5 bg-[#35fbab] text-lg rounded-xl text-[#f7f7f7] drop-shadow-lg hover:bg-[#7cf7cc] cursor-pointer"
 
 
